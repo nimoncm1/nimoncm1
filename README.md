@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Certificates
-<a href="https://www.learnenough.com/certificates/cmnd"><img src="https://www.learnenough.com/certificates/cmnd/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+<a href="https://www.learnenough.com/certificates/cmnd"><img src="https://www.learnenough.com/certificates/cmnd/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/cmnd"><img src="https://www.learnenough.com/certificates/cmnd/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby"></a>
 
 <!--
 **nimoncm1/nimoncm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
